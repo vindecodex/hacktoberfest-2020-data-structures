@@ -9,7 +9,9 @@
 6. create branch "hacktoberfest2020/YOUR_GITHUB_USERNAME" - (THIS MUST BE FOLLOW).
 7. Create a Pull request.
 
-:heavy_wrong_mark: <p style="color:red;">Not following instructions will be marked as invalid</p>
+```diff
+- Not following instructions will be marked as invalid
+```
 
 ### For Suggestions.
 Just open an issue with suggestion tag. Thank you. Happy Hacking! :smiley: :smiley: :smiley:
