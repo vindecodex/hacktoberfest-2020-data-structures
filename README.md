@@ -5,9 +5,18 @@
 2. Clone the forked repository.
 3. Create file inside the folder on which language you prefer.
 4. file naming "DATA_STRUCTURE_TOPIC_USED-YOU_GITHUB_USERNAME.EXTENSION" - (THIS MUST BE FOLLOW).
+  - example
+  ```
+    insertion_sort-vindecodex.go
+  ```
 5. Write your code.
 6. create branch "hacktoberfest2020/YOUR_GITHUB_USERNAME" - (THIS MUST BE FOLLOW).
+  - example
+  ```
+  hacktoberfest2020/vindecodex
+  ```
 7. Create a Pull request.
+
 
 ```diff
 - Not following instructions will be marked as invalid
