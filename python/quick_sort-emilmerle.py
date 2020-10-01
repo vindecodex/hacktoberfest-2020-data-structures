@@ -12,5 +12,3 @@ def quicksort_rand_pivot(lst):
             else:
                 right.append(e)
         return quicksort_rand_pivot(left) + quicksort_rand_pivot(right)
-
-print(quicksort_rand_pivot([3,4,2,5,1,6]))
